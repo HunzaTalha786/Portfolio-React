@@ -26,7 +26,7 @@ export default function Projects() {
     const listProjects = [
         {id:1, image:img4, title:'Porfolio(HTML,CSS & JS)',demo_link:'https://hunzatalha786.github.io/My-Porfolio/',repo_link:"https://github.com/HunzaTalha786/My-Porfolio"},
         {id:2, image:img5, title:' Pregnancy Diet Exercise App',demo_link:'https://hunzatalha786.github.io/Pregnancy-Diet-And-Exercise-App/',repo_link:'https://github.com/HunzaTalha786/Pregnancy-Diet-And-Exercise-App' },
-        {id:3, image:img6, title:'Porfolio(React & TailwindCss)',demo_link:'https://hunzatalha786.github.io/Bootstrap/',repo_link:'https://github.com/HunzaTalha786/Bootstrap'},
+        {id:3, image:img6, title:'Porfolio(React & TailwindCss)',demo_link:'https://portfolio-with-react-1.netlify.app/',repo_link:'https://github.com/HunzaTalha786/Portfolio-React'},
         {id:4, image:img1, title:'Nike Landing Page',demo_link:'https://hunzatalha786.github.io/Nike-Responsive-Landing-Page/',repo_link:'https://github.com/HunzaTalha786/Nike-Responsive-Landing-Page' },
         {id:5, image:img2, title:'Creativee Landing Page',demo_link:'https://hunzatalha786.github.io/Project-2-Responsive-Landing-Page/',repo_link:'https://github.com/HunzaTalha786/Project-2-Responsive-Landing-Page'},
         {id:6,image:img3, title:'Techno- web',demo_link:'https://hunzatalha786.github.io/Bootstrap/',repo_link:'https://github.com/HunzaTalha786/Bootstrap'},
